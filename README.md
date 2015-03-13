@@ -1,6 +1,10 @@
 # Project: Text Twister Game
 The machine decides a random word. The user has to make correct words of smaller word lengths (depends on difficulty level) from that word. The user either wins by completing all the words or he/she loses by quitting and accepting the fact that he/she has failed at life.
 
+
+Team Members: Noshin Nisa, Ahmed Raza Hashmi
+
+
 Data Structures Used
 
   - TreeMaps
